@@ -1,12 +1,12 @@
 El presente proyecto tiene como objetivo analizar los factores que tienen un mayor impacto en las notas de los alumnos y a realizar la predicción de las notas de los alumnos en base a sus características usando aprendizaje automático como es la regresión lineal múltiple. De esta manera, se podrá desarrollará una vista más completa y detallada sobre los factores que inciden en el desempeño estudiantil y así crear planes de estratégicos para promover el éxito académico de los estudiantes. Asimismo, este modelo se implementó en el servicio de la nube Azure para la automatización de procesos, entrenamiento y que sea usado a través de un endpoint para proporcionar conectividad a más aplicaciones clientes, obtener resultados de predicción en tiempo real y tener un mayor alcance. A continuación se mostrará las imagenes y URLS del despliegue en Azure, como los pipelines de entrenamiento y predicción.
 
 Pipelines de entrenamiento:
-  Modelo predictivo 1): https://acortar.link/hpzs0B 
-  Modelo predictivo 2): https://acortar.link/9Bybtl 
-  Modelo predictivo 3): https://acortar.link/LOJtgM
+  - Modelo predictivo 1): https://acortar.link/hpzs0B 
+  - Modelo predictivo 2): https://acortar.link/9Bybtl 
+  - Modelo predictivo 3): https://acortar.link/LOJtgM
 
 Pipelines de predicción:
-  Basado en el modelo predictivo 3): https://acortar.link/vR5pM1 
+  - Basado en el modelo predictivo 3): https://acortar.link/vR5pM1 
 
 
 
