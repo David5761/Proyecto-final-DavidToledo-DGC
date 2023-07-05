@@ -12,9 +12,9 @@ Pipelines de predicción:
 
 
 
-![image](https://github.com/David5761/Proyecto_Final_DavidToledo/assets/75706282/be5061f7-ea4e-439f-9f5a-65b4b4e53e62)
+![image](https://github.com/David5761/Proyecto_Final_DavidToledo/assets/75706282/6110b9c5-cfea-4dc6-aaee-d025fc4c3d48)
 ![Screenshot 2023-07-04 234108](https://github.com/David5761/Proyecto_Final_DavidToledo/assets/75706282/ad8e8da8-958a-4bc5-844c-3dd21d53f92f)
-![image](https://github.com/David5761/Proyecto_Final_DavidToledo/assets/75706282/d750e0ab-e7a7-4c05-8c8b-3b72a7534c2b)
+![image](https://github.com/David5761/Proyecto_Final_DavidToledo/assets/75706282/be5061f7-ea4e-439f-9f5a-65b4b4e53e62)
 
 
 
