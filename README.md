@@ -5,7 +5,7 @@ Pipelines de entrenamiento:
   - Modelo predictivo 2): https://acortar.link/9Bybtl 
   - Modelo predictivo 3): https://acortar.link/LOJtgM
 
-Pipelines de predicción:
+Pipeline de predicción:
   - Basado en el modelo predictivo 3): https://acortar.link/vR5pM1 
 
 
